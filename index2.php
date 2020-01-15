@@ -9,7 +9,7 @@ require "korisnik/template/header.php";
         <div class="row_header">
           <h1>KNJIŽARA MS</h1>
           <br>
-        </div>
+        </div> 
           				<div class="col-xs-8 col-sm-8 col-md-8 col-lg-8">
 
                         <div class="post">
