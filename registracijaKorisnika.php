@@ -82,7 +82,7 @@ if (isset($_POST['registracija'])) {
                                 number: "Morate uneti brojeve!"
                             },
                             username: {
-                                required: "Polje je obavezno!",
+                                required: "Polje je obavezno!!",
                                 minlength: "Polje mora imati minimum 3 karaktera!",
                                 maxlength: "Polje može imati maksimum 15 karaktera!",
                                 number: "Morate uneti brojeve!"
