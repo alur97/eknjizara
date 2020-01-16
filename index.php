@@ -68,7 +68,7 @@ else{
 	<script type="text/javascript" src="engine0/script.js"></script>
 	<!-- End WOWSlider.com BODY section -->
 	 <div class="home">
-    <h1 ><a href="index2.php">Početna <span class="glyphicon glyphicon-home"></span></a></h1>
+    <h1 ><a href="index2.php">Početna stranica<span class="glyphicon glyphicon-home"></span></a></h1>
   </div>
 <?php
   if (isset($_SESSION['username']) && !empty($_SESSION['username'])) {
